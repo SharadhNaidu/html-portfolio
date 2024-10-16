@@ -1,2 +1,2 @@
-# html-portfolio
+# Sharadh-portfolio
 SHARADH's Portfolio
